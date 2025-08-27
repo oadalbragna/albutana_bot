@@ -1,0 +1,2 @@
+pyTelegramBotAPI==4.24.0
+pyrebase4==4.7.1
